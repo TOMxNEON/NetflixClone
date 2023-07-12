@@ -1,15 +1,14 @@
 .banner{
-    background-image: url(https://wallpaperaccess.com/full/2703652.png);
     background-size: cover;
     height: 448px ;
     color: white;
+    margin-top: 40px;
 }
 
 .content{
-    padding-top:  140px;
+    padding-top: 140px;
     height: 190px;
     padding-left:  20px;
-
 }
 
 .title{
@@ -45,6 +44,8 @@
     font-size: 1rem;
     height: 80px;
     max-width: 360px;
+    
+    overflow-y: hidden;
 }
 
 .fade_bottom{
